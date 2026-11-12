@@ -53,7 +53,7 @@ export default function WeatherBadge () {
 
         <div className="rounded-3xl bg-white p-5 shadow-sm ring-1 ring-stone-200">
 
-            <p className="text-xs uppercase tracking-widest text-stone-500">🌡️ El voto del clima</p>
+            <p className="text-xs uppercase tracking-widest text-stone-500">🌡️ El voto del clima (automático por razones climáticas)</p>
 
             <div className="mt-1">{content}</div>
 
