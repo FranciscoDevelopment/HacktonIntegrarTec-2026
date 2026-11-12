@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+html {
+  background-color: var(--color-amber-50);
+}
