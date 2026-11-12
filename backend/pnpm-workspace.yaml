@@ -1,0 +1,7 @@
+allowBuilds:
+  '@nestjs/core': true
+  '@parcel/watcher': true
+minimumReleaseAgeExclude:
+  - '@nestjs/common@11.2.10'
+  - '@nestjs/core@11.2.10'
+  - '@nestjs/platform-express@11.2.10'
