@@ -1,0 +1,8 @@
+export enum CategoryEnum {
+  SALADO = 'SALADO',
+  DULCE = 'DULCE',
+  VEGETARIANO = 'VEGETARIANO',
+  VEGANO = 'VEGANO',
+  CARNIVORO = 'CARNIVORO',
+  HARINAS = 'HARINAS',
+}
