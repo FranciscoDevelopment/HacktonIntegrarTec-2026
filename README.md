@@ -1,6 +1,7 @@
 # Antojo Gourmet
 
-> Seis amigos, cuarenta minutos y nadie sabe qué pedir. Antojo Gourmet lo resuelve en uno.
+> Seis amigos, cuarenta minutos y nadie sabe qué pedir. Antojo Gourmet lo resuelve mediante algunos clicks.Sazonando a tono con los platillos más típicos de Argentina.
+
 
 **Pabellón:** Molestias Cotidianas
 **Ingrediente improbable:** Puntaje o ranking, con el clima como jurado extra
