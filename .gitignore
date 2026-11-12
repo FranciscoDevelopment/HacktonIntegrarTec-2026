@@ -1,0 +1,16 @@
+# dependencias y builds
+node_modules/
+dist/
+.next/
+out/
+coverage/
+
+# variables de entorno (los .env.example sí se suben)
+.env
+.env.*
+!.env.example
+
+# varios
+*.log
+.DS_Store
+*.tsbuildinfo
