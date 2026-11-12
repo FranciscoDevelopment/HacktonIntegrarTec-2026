@@ -32,7 +32,7 @@ Lo que lo vuelve distinto es que **el clima también vota**. Cuanto más frío h
 
 **3. El reloj.** La votación dura como máximo 40 minutos y el tiempo restante se ve en pantalla. Mientras corre, cada comensal puede cargar y cambiar sus votos en todas las instancias: las seis categorías y la elección entre fitness o contundente. Si todos ya votaron, se puede tocar **Decidir** antes de que termine. Si el reloj llega a cero, la votación se cierra sola y se decide con lo que haya. Las categorías que nadie tocó cuentan como "medias", y quien no eligió estilo no suma a ninguno.
 
-**4. El voto del clima.** Se consulta la temperatura actual con la API de [Open-Meteo](https://open-meteo.com/). Por cada grado por debajo de 20 °C, Contundente suma 0,1 punto. Por cada grado por encima de 20 °C, Fitness suma 0,1 punto. El tope es 1 punto: el clima pesa, como mucho, lo mismo que un comensal más.
+**4. El voto del clima (automático por razones climáticas).** Se consulta la temperatura actual con la API de [Open-Meteo](https://open-meteo.com/). Por cada grado por debajo de 20 °C, Contundente suma 0,1 punto. Por cada grado por encima de 20 °C, Fitness suma 0,1 punto. El tope es 1 punto: el clima pesa, como mucho, lo mismo que un comensal más.
 
 | Temperatura | Bonus del clima        |
 | ----------- | ---------------------- |

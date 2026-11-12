@@ -16,7 +16,7 @@ export default function ScoreSummary ( { decision } : scoreSummaryProps ) {
         <section className="grid gap-4 lg:grid-cols-3">
 
             <div className="rounded-3xl bg-white p-5 shadow-sm ring-1 ring-stone-200">
-                <h3 className="text-xs uppercase tracking-widest text-stone-500">🌡️ El voto del clima</h3>
+                <h3 className="text-xs uppercase tracking-widest text-stone-500">🌡️ El voto del clima (automático por razones climáticas)</h3>
                 {
                     weather
                         ? (
