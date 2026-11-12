@@ -100,9 +100,4 @@ APIs públicas que consulta (ninguna pide clave):
 
 ## Herramientas de IA utilizadas
 
-**Claude Code (Claude Opus 5.5):** para redactar este README, proponer la fórmula del clima y generar el código del back y del front.
-
-Qué decidí yo y qué sugirió la IA:
-
-- **Mío:** la idea, las seis categorías, el sistema de pocas/medias/muchas ganas, la elección entre fitness y contundente, el límite de 40 minutos para votar, que la temperatura influya en el puntaje, usar NestJS y Next.js, y guardar los nombres con zustand y localStorage durante 60 minutos.
-- **Sugerido por la IA:** el término "contundente", la fórmula del clima (0,1 punto por grado con tope de 1), usar una carta propia de platos en lugar de una API de delivery, Open-Meteo para la temperatura, Wikipedia para las fotos, el desempate por orden alfabético y quedarse en NestJS 11 porque el CLI de NestJS 12 no arranca con Node 22.12.
+**Claude Code (Claude Opus 5.5):** para redactar este README, proponer la fórmula del clima y generar la mayor parte del código del back y del front.
